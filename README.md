@@ -37,7 +37,11 @@ Aspiring Software Engineer currently pursuing a BA in Computer Science, eager to
 # GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jacobodavidson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+</div>
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacobodavidson&theme=tokyonight&hide_border=false" />
+</div>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobodavidson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 
