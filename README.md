@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Software Engineer currently pursuing a BA in Computer Science, eager to apply comprehensive knowledge of programming languages and software development methodologies. Dedicated to contributing to team success through hard work, attention to detail, and excellent organizational skills. Passionate about writing clean, efficient, and secure code for innovative software solutions.
+Software Engineer currently pursuing a BA in Computer Science, eager to apply comprehensive knowledge of programming languages and software development methodologies. Dedicated to contributing to team success through hard work, attention to detail, and excellent organizational skills. Passionate about writing clean, efficient, and secure code for innovative software solutions.
 
 
 ## Socials:
