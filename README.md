@@ -1,5 +1,5 @@
 # About Me:
-Software Engineer currently pursuing a BA in Computer Science, eager to apply comprehensive knowledge of programming languages and software development methodologies. Dedicated to contributing to team success through hard work, attention to detail, and excellent organizational skills. Passionate about writing clean, efficient, and secure code for innovative software solutions.
+IT Specialist with a strong interest in software engineering and cybersecurity, currently pursuing a BS in Computer Science at UNC Pembroke. Leveraging hands-on experience in IT support, system administration, and POS management to build a foundation for a career in software development. Eager to contribute technical expertise to forward-thinking teams developing innovative, security-focused applications that protect organizational assets and data integrity. Seeking opportunities to expand knowledge in penetration testing, secure coding practices, and cloud security architecture.
 
 
 ## Socials:
