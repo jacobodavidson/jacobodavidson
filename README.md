@@ -1,5 +1,5 @@
 # About Me:
-IT Specialist with a strong interest in software engineering and cybersecurity, currently pursuing a BS in Computer Science at UNC Pembroke. Leveraging hands-on experience in IT support, system administration, and POS management to build a foundation for a career in software development. Eager to contribute technical expertise to forward-thinking teams developing innovative, security-focused applications that protect organizational assets and data integrity. Seeking opportunities to expand knowledge in penetration testing, secure coding practices, and cloud security architecture.
+IT Specialist with a strong interest in software engineering, cybersecurity and a BS in Computer Science at UNC Pembroke. Leveraging hands-on experience in IT support, system administration, and POS management to build a foundation for a career in software development. Eager to contribute technical expertise to forward-thinking teams developing innovative, security-focused applications that protect organizational assets and data integrity. Seeking opportunities to expand knowledge in penetration testing, secure coding practices, and cloud security architecture.
 
 
 ## Socials:
